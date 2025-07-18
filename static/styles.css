@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    background: #1e1e1e;
+    color: white;
+    margin: 0;
+    padding: 2rem;
+}
+
+.tile {
+    background: #333;
+    padding: 1rem;
+    margin: 1rem;
+    display: inline-block;
+    border-radius: 8px;
+}
